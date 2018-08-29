@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+	<body>
+		<h1>Check out our silver medals!</h1>
+		<p>Silver Medal: $50</p>
+		<p>Silver Ribbon: $250</p>
+	</body>
+</html>
